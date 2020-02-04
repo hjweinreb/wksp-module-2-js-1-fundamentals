@@ -17,3 +17,8 @@
 // _#_#_#_#
 // #_#_#_#_
 // _#_#_#_#
+    
+for(let number = 0; number <= 8 ; number++) {
+    console.log()
+}
+
